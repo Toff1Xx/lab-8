@@ -1,1 +1,0 @@
-export { default } from "file:///C:/Users/Den57/WebstormProjects/lab-8/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
